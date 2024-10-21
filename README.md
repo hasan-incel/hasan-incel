@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am currently enrolled at Patika Fullstack Web Development Bootcamp.
+🌱 I am currently enrolled in the Patika Fullstack Web Development Bootcamp.
 
 
 ## 🌐 Socials:
