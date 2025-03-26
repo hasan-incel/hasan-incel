@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱 I am currently enrolled in the Patika Fullstack Web Development Bootcamp.
-
+🌱 I am a Junior Software Developer with a strong foundation in full-stack web development, having recently completed the Patika Fullstack Web Development Bootcamp.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-incel) 
